@@ -19,5 +19,5 @@ This is a simple **calculator UI** created using **pure HTML**. It does not perf
 
 ---
 
-## 🧱 Folder Structure
+
 
